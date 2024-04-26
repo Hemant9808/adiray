@@ -4,7 +4,7 @@ import blogpage from "../../assets/blogpage.png"
 export default function Blog() {
   return (
     <div className="h-full w-full relative top-[7vh] bottom-[0vh] flex flex-col items-center " >
-      <div className=" absolute w-full flex  justify-center  items-center top-[15vh] "><span className="text-gray-900 text-5xl font-bold ">Latest </span><span className="text-blue-900 text-5xl font-bold ml-3">Updates</span><span className="text-gray-900 text-5xl font-extrabold "> </span></div>
+      <div className=" absolute w-full flex  justify-center  items-center top-[15vh] "><span className="text-gray-900 text-5xl font-bold ">Late </span><span className="text-blue-900 text-5xl font-bold ml-3">Updates</span><span className="text-gray-900 text-5xl font-extrabold "> </span></div>
       <section className=" flex justify-center items-center  py-60 px-5  ">
         <div className="flex flex-wrap gap-8 justify-center">
           <div className="w-[390px] h-[390px] rounded-md shadow border border-gray-900 flex-col justify-center items-center inline-flex">
